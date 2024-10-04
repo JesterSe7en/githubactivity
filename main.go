@@ -365,7 +365,7 @@ func main() {
 			if err != nil {
 				fmt.Printf("Error interpreting event: %s\n\n", err)
 			} else {
-				fmt.Printf("Sponsorship created for %s.  URL: %s\n\n", events[i].Repo.Name)
+				fmt.Printf("Sponsorship created for %s.\n\n", events[i].Repo.Name)
 			}
 		case "WatchEvent":
 			parsedTime, err := time.Parse(time.RFC3339, events[i].Created_At)
