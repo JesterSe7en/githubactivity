@@ -25,7 +25,6 @@ After building the executable, the CLI can be invoked like this:
 ```bash
 githubactivity <username>
 ```
-
 Example:
 ```bash
 githubactivity JesterSe7en
