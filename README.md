@@ -12,8 +12,8 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/JesterSe7en/githubactivity.git](https://github.com/JesterSe7en/githubactivity.git)
-   cd githubactivity-cli
+   git clone https://github.com/JesterSe7en/githubactivity.git
+   cd githubactivity
    ```
 2. **Build the CLI**
    Assuming you have Go installed, build the project with the following command:
