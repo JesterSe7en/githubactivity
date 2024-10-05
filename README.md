@@ -12,7 +12,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/githubactivity-cli.git
+   git clone [https://github.com/JesterSe7en/githubactivity.git](https://github.com/JesterSe7en/githubactivity.git)
    cd githubactivity-cli
    ```
 2. **Build the CLI**
